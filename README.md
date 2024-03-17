@@ -1,4 +1,7 @@
+Vidya's update to README file
+
 # Timesheet Manager
+
 This provides the frontend for the Timesheet manager support app for the Automation in Testing Engineer learning journey.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
