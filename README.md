@@ -1,3 +1,8 @@
+### Example edit
+
+I am making a change to this file.
+This change has been made on a demo branch
+
 # Timesheet Manager
 This provides the frontend for the Timesheet manager support app for the Automation in Testing Engineer learning journey.
 
@@ -29,9 +34,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-
-### Example edit
-
-I am making a change to this file.
-This change has been made on a demo branch
