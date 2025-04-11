@@ -29,3 +29,8 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+## `Hoping this works correctly`
+
+Not quite as used to using the GITHub versus BitBucket. Seems VERY similar
